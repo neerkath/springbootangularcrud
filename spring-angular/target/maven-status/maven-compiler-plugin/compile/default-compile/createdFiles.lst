@@ -1,0 +1,7 @@
+com\kgisl\spring\angular\exception\ErrorDetails.class
+com\kgisl\spring\angular\exception\GlobalExceptionHandler.class
+com\kgisl\spring\angular\Application.class
+com\kgisl\spring\angular\exception\ResourceNotFoundException.class
+com\kgisl\spring\angular\model\Employee.class
+com\kgisl\spring\angular\controller\EmployeeController.class
+com\kgisl\spring\angular\repository\EmployeeRepository.class
